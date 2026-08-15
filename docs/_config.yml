@@ -1,0 +1,13 @@
+title: leanfolio
+logo: /assets/img/logo.svg
+description: leanfolio - Lean portfolio strategy
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: just-the-docs/just-the-docs
+just_the_docs:
+  logo: false
+  search_enabled: true
+  navigation:
+    collapse_level: 2
