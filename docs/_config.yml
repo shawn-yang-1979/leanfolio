@@ -1,5 +1,6 @@
 title: leanfolio
 logo: /assets/img/logo.svg
+favicon_ico: /assets/images/favicon.svg
 description: leanfolio - Lean portfolio strategy
 plugins:
   - jekyll-seo-tag
