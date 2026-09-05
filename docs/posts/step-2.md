@@ -14,6 +14,8 @@ nav_order: 3
 - 15.0% Intermediate-Term Treasury Bonds
 - 07.5% Commodities
 - 07.5% Gold
+
+---
 [Reference: All weather portfolio](#reference).
 
 All weather portfolio 以穩健出名. 投資組合中包含幾個低度相關或負相關的標的, 因此可以有效度過最糟糕的時期. 
@@ -37,6 +39,8 @@ All weather portfolio 以穩健出名. 投資組合中包含幾個低度相關�
 而且我沒有花什麼時間去研究到底要挑哪 10 間公司, 我只是很輕鬆的參考了 Forbes Global 2000. 
 
 Forbes Global 2000 根據四個指標: sales, profits, assets, market value 對全球上市公司進行排名, 並找出分數最高的前 2000 大企業. 每年六月中到月底之間會發佈最新排名.
+
+---
 [Reference: Forbes Global 2000](#reference).
 
 我只是很單純的挑前 10 間入榜的台灣公司當作我投資標的. 以 2026 的資料為例, 台灣前 10 名如下:
