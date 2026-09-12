@@ -32,4 +32,4 @@ nav_order: 8
 Step 1-4 如果有了變化, 在定時定額買進的部分, 你就需要調整額度. 
 
 ## Update T-Shirt Sizing
-Step 1-4 如果有了變化, 在不定時定額買進的部分, 你就需要調整 T-Shirt Sizing 額度.
+Step 1-4 如果有了變化, 在不定時定額買進的部分, 你就需要調整 T-Shirt Size 額度.
