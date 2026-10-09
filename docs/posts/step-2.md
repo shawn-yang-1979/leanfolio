@@ -89,6 +89,6 @@ GLDM.NYSE 就是目前最適合的實體黃金 ETF. GLDM.NYSE 全名: SPDR Gold 
  - 五大買金管道的隱形陷阱: https://www.youtube.com/watch?v=xyw38T_7bnI
 
  ## Acknowledgements
- 特別感謝 Claire 提供更好的投資標的, 讓我的投資組合能夠更加精進.
+特別感謝 Claire 提供更好的投資標的, 讓我的投資組合能夠更加精進.
 
- 我認識 Claire 超過 20 年了. 目前她也是一位相當優秀的投資人, 同時也是我人生的伴侶. 雖然我在投資的架構上比她有想法, 但在細節上她經常能給我更好的選擇. 0050 TISA, VALU.LSE, GLDM.NYSE 都是受到她的影響.
+我認識 Claire 超過 20 年了. 目前她也是一位相當優秀的投資人, 同時也是我人生的伴侶. 雖然我在投資的架構上比她有想法, 但在細節上她經常能給我更好的選擇. 0050 TISA, VALU.LSE, GLDM.NYSE 都是受到她的影響.
