@@ -77,7 +77,7 @@ VT.NYSE 是 FTSE Global All Cap Index 在美國歷史最悠久, 流動性最高�
 
 為何我不保留 07.5% Commodities? 理由是因為我找不到適合的投資標的. Commodities 又稱原物料, 標準作法是持有 DBC.NYSE, 原物料相關的期貨型 ETF. 但期貨型 ETF 隱性成本非常的高, 且 DBC.NYSE 對非美國人而言並不友善, 所以我寧可保留 07.5% 美金定存. 近年來美國政府在 Donald Trump 總加速師的加速下有可能會讓美金越來越不值錢. 經過謹慎評估後, 在 2026 Q4 決定將 07.5% 美金 07.5% 黃金合併為 15.0% 黃金.
 
-投資黃金有幾種選擇: 1. 去銀樓買黃金存在保險櫃. 2. 跟銀行買黃金存在黃金存摺. 3. 買期貨型黃金 ETF. 4. 買實體黃金型 ETF. 隱性成本最低的是 4. 實體黃金型 ETF. 
+投資黃金有幾種選擇: 1. 去銀樓買黃金存在保險櫃. 2. 跟銀行買黃金存在黃金存摺. 3. 買期貨型黃金 ETF. 4. 買實體黃金型 ETF. 隱性成本最低的是 4. 實體黃金型 ETF. [Reference: 五大買金管道的隱形陷阱](#reference).
 
 GLDM.NYSE 全名: SPDR Gold MiniShares Trust 是 GLD.NYSE 的官方親民低價版. 設計初衷是為了降低散戶的投資門檻. 每股價格通常約為 GLD.NYSE 的十分之一, 且費用率大幅調降. 目前的資產管理規模已超越 304 億美元. 
 
@@ -86,3 +86,4 @@ GLDM.NYSE 全名: SPDR Gold MiniShares Trust 是 GLD.NYSE 的官方親民低價�
 ## Reference
  - All weather portfolio: <https://www.youtube.com/watch?v=-IcLBK9aKcA>
  - Forbes Global 2000: <https://www.forbes.com/lists/global2000>
+ - 五大買金管道的隱形陷阱: https://www.youtube.com/watch?v=xyw38T_7bnI
